@@ -1,0 +1,63 @@
+.panelPrincipal. {
+    -fx-background-color:
+        radial-gradient(center 50% -60%, radius 200%, #FAF0D7 45%, #FFD9C0 70%);
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+
+}
+
+.panelMostrar{
+    -fx-background-color:
+            radial-gradient(center 50% -60%, radius 200%, #FAF0D7 45%, #FFD9C0 70%);
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+
+
+}
+.tab-pane>*.tab-header-area>*.tab-header-background
+{
+    -fx-background-color: #9A86A4;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+
+}
+
+.botonMenu {
+    -fx-background-color: #F4BFBF;
+}
+.botonMenu:hover {
+    -fx-background-color: #dcabab;
+}
+
+.botonMenuI {
+    -fx-background-color: #FAF0D7;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.botonMenuI:hover {
+    -fx-background-color: #c4bca8;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.tab{
+    -fx-background-color: #B1BCE6;
+}
+
+.context-menu > * > .separator > .line {
+    -fx-border-color: #f9bFaF;
+}
+
+.context-menu{
+    -fx-background-color: #F4BFBF;
+}
+
+
+.barraMenus {
+    -fx-background-color: #F4BFBF;
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+
+}
+
